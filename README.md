@@ -15,5 +15,5 @@
 ### Testing the endpoint
 In order to test the endpoint we can either use postman or make use of django restframework developer tools.
 #### Postman testing
-1. After installing Postman, import the query included in this repo named 
+1. After installing Postman, import the [Query](./q) included in this repo
 

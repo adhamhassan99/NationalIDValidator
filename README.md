@@ -9,6 +9,7 @@
    - Install requirements using: `pip install -r requirements.txt`
 
 4. Last step is to run the localserver and test the endpoint using the following command:
+   - `cd IDValidator`
    - python manage.py runserver
 
 
@@ -16,4 +17,5 @@
 In order to test the endpoint we can either use postman or make use of django restframework developer tools.
 #### Postman testing
 1. After installing Postman, import the [Query](https://github.com/adhamhassan99/NationalIDValidator/blob/master/Shahry%20test.postman_collection.json) included in this repo
-
+2. After importing the query file, one can send requests right away as long as local server is running according to step 4 in the previous section.
+   - ![Query Example](https://drive.google.com/file/d/17-gm9VMPK2aAMWnegXBpFx9yeqsAZQ2G/view?usp=sharing)

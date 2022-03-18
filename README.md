@@ -18,7 +18,7 @@ In order to test the endpoint we can either use postman or make use of django re
 #### Postman testing
 1. After installing Postman, import the [Query](https://github.com/adhamhassan99/NationalIDValidator/blob/master/Shahry%20test.postman_collection.json) included in this repo
 2. After importing the query file, one can send requests right away as long as local server is running according to step 4 in the previous section.
-   - ![Query Example](https://github.com/adhamhassan99/NationalIDValidator/blob/f654302bc0904a0056c8dfad5aa32bb38bdc67d5/Screenshot%20(204).png)
+   - ![Query Example](https://github.com/adhamhassan99/NationalIDValidator/blob/4af4f98c37c96c6966fb7eb5b774b26c0348f074/Screenshot%20(204).png)
 
 #### Browser Testing
 Run the local server as guided in step 4 in the first section then:
